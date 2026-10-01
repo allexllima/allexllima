@@ -3,11 +3,6 @@
 - 🌱 I’m currently learning JAVA, Kotlin, SQL, Spring and related.
 - 💞️ I’m looking to collaborate on solutions for my job (adm education).
 
-<!---
-allexllima/allexllima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 ### 📬 Let's connect!
 
 <div align="center">
