@@ -23,7 +23,16 @@
 </picture>
 
 <div align="center">
-  <a href="https://github.com/allexllima">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&background=0D1117&center=false&vcenter=true&width=500&height=120&lines=allexllima%24+whoami;Dev+Java+%26+Kotlin;allexllima%24+cat+skills.txt;Spring+%7C+SQL+%7C+Network+%7C+Infra;allexllima%24+echo+%22Welcome!%22" alt="Terminal Simulation" />
-  </a>
+  <table border="0">
+    <tr>
+      <td bgcolor="#161b22" align="left">
+        <sub>🔴 🟡 🟢 <b>bash — allexllima@dev</b></sub>
+        <br/><br/>
+        <code><b>allexllima@pc:~$</b> sudo systemctl start developer</code><br/>
+        <code><b>[OK]</b> Loaded Java & Kotlin environment...</code><br/>
+        <code><b>[OK]</b> Connected to SQL databases...</code><br/>
+        <code><b>allexllima@pc:~$</b> echo "Pronto para novos desafios!"</code>
+      </td>
+    </tr>
+  </table>
 </div>
