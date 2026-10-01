@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-### 🐍 Jogo da Cobrinha de Contribuições
+### 🐍 Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/allexllima/allexllima/output/github-contribution-grid-snake-dark.svg">
