@@ -22,17 +22,17 @@
   <img alt="github snake animation" src="https://raw.githubusercontent.com/allexllima/allexllima/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td bgcolor="#161b22" align="left">
-        <sub>🔴 🟡 🟢 <b>bash — allexllima@dev</b></sub>
-        <br/><br/>
-        <code><b>allexllima@pc:~$</b> sudo systemctl start developer</code><br/>
-        <code><b>[OK]</b> Loaded Java & Kotlin environment...</code><br/>
-        <code><b>[OK]</b> Connected to SQL databases...</code><br/>
-        <code><b>allexllima@pc:~$</b> echo "Pronto para novos desafios!"</code>
-      </td>
-    </tr>
-  </table>
-</div>
+```bash
+allexllima@github:~$ whoami
+> Allex Lima | Software Developer
+
+allexllima@github:~$ cat skills.json
+{
+  "languages": ["Java", "Kotlin", "SQL"],
+  "frameworks": ["Spring Boot"],
+  "interests": ["Networks", "Infrastructure", "Music", "Travels"]
+}
+
+allexllima@github:~$ ./status.sh
+> Status: Building solutions for Educational Management 🚀
+```
